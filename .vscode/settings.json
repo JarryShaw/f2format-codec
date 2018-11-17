@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "cmdclass",
+        "f'Hello",
+        "fstring",
+        "fstrings",
+        "lnum"
+    ],
+    "python.pythonPath": "/Users/jarryshaw/.local/share/virtualenvs/codec-6niPXdhQ/bin/python",
+    "python.linting.pylintEnabled": true
+}

@@ -22,6 +22,6 @@ And then write Python 3.6 f-string literals as usual :beer:
 
 ## Acknowledgement
 
-This project levergas APIs provided by
+This project leverages APIs provided by
 [`f2format`](https://github.com/JarryShaw/f2format), and concepts inspired from
 [`future-fstrings`](https://github.com/asottile/future-fstrings).

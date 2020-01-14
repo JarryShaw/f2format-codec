@@ -1,6 +1,6 @@
 # f2format-codec
 
-Codec registry for [`f2format`](https://github.com/JarryShaw/f2format),
+Codec registry for [`f2format`](https://github.com/pybpc/f2format),
 a back-port compiler for Python 3.6 f-string literals.
 
 ## Installation
@@ -23,5 +23,5 @@ And then write Python 3.6 f-string literals as usual :beer:
 ## Acknowledgement
 
 This project leverages APIs provided by
-[`f2format`](https://github.com/JarryShaw/f2format), and concepts inspired from
+[`f2format`](https://github.com/pybpc/f2format), and concepts inspired from
 [`future-fstrings`](https://github.com/asottile/future-fstrings).
